@@ -1,0 +1,1 @@
+export {default as sun} from './projects/s.jpg'
